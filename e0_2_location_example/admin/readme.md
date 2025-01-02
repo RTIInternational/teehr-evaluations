@@ -1,0 +1,1 @@
+The `admin` directory contains notebooks and scripts used by the TEEHR Team to create, miantain and pubish the evaluation dataset.  Depending on where you are running this, you may not have access to the raw data at the path specified although it is all available in the S3 bucket.
